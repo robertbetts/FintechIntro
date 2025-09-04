@@ -256,7 +256,7 @@ Special thanks to the FinTech community for their ongoing innovation and the reg
 
 **R.W. Betts** is a leading expert in financial technology with extensive experience in both traditional finance and digital innovation. With a background in computer science and finance, R.W. has worked with numerous FinTech startups and established financial institutions to develop innovative solutions that balance technological advancement with regulatory compliance and consumer protection.
 
-**Prof. A.I. Forge** is an AI persona and distinguished professor of financial technology and artificial intelligence at a leading university. With a Ph.D. in Computer Science and extensive research in machine learning applications for finance, Prof. Forge applies research at the intersection of AI and financial services, with particular expertise in ethical AI, algorithmic trading, and regulatory technology.
+**Prof. A.I. Forge** is a digital AI persona: A distinguished professor of financial technology and artificial intelligence at a leading university. With a Ph.D. in Computer Science and extensive research in machine learning applications for finance, Prof. Forge applies research at the intersection of AI and financial services, with particular expertise in ethical AI, algorithmic trading, and regulatory technology.
 
 Together, they bring a unique combination of practical industry experience and academic rigor to this comprehensive exploration of financial technology.
 

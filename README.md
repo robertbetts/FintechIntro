@@ -1,4 +1,4 @@
-# Fintech University
+# Fintech Introduction
 
 This project serves as an illustration of how an Agentic AI approache can be used to curate content for a Master's level university course. Multiple AI agent personas are directed to develop content for a Fintech 101 postgraduate university course text book. 
 
@@ -6,6 +6,8 @@ This project serves as an illustration of how an Agentic AI approache can be use
 - **learner_agent**: Ask questions, seek clarification, and contribute from a learning perspective.
 - **positive_agent**: Present optimistic, supportive, and forward-thinking perspectives on FinTech topics, while maintaining factual accuracy and substantiating all claims.
 - **negative_agent**: Present critical, skeptical, and opposing views on FinTech topics, while maintaining factual accuracy and substantiating all claims. Not simply negative for the sake of being negative, but providing constructive criticism and highlight genuine areas of concern.
+
+This method/approach is called the **FintechForge Method**
 
 **All the content is 100% AI produced with no humnan intervention, however agents are run deterministically in a specific sequence while iterating over all the course topics.**
 
