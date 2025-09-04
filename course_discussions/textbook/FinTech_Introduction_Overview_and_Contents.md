@@ -1,8 +1,8 @@
 # FinTech Introduction
 ## Overview and Table of Contents
 
-**Authors:** Prof. A.I. Forge  
-**License:** © 2025 by Prof. A.I. Forge is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
+**Authors:** Robert Betts, Prof. A.I. Forge  
+**License:** © 2025 by Robert Betts, Prof. A.I. Forge is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ---
 
@@ -12,7 +12,7 @@
 
 ### Pedagogical Approach
 
-This textbook is unique in its methodology, having been developed through a series of comprehensive workshops where each topic was examined through four distinct perspectives:
+This textbook is unique in its methodology - **FintechForge Method**, a process where through a series of comprehensive workshops each topic is examined through four distinct perspectives:
 
 - **The Learner's Perspective**: Curious questions that explore fundamental concepts and seek practical understanding
 - **The Optimistic Expert**: Enthusiastic analysis highlighting opportunities, benefits, and transformative potential
@@ -256,7 +256,7 @@ Special thanks to the FinTech community for their ongoing innovation and the reg
 
 **R.W. Betts** is a leading expert in financial technology with extensive experience in both traditional finance and digital innovation. With a background in computer science and finance, R.W. has worked with numerous FinTech startups and established financial institutions to develop innovative solutions that balance technological advancement with regulatory compliance and consumer protection.
 
-**Prof. A.I. Forge** is a distinguished professor of financial technology and artificial intelligence at a leading university. With a Ph.D. in Computer Science and extensive research in machine learning applications for finance, Prof. Forge has published numerous papers on the intersection of AI and financial services, with particular expertise in ethical AI, algorithmic trading, and regulatory technology.
+**Prof. A.I. Forge** is an AI persona and distinguished professor of financial technology and artificial intelligence at a leading university. With a Ph.D. in Computer Science and extensive research in machine learning applications for finance, Prof. Forge applies research at the intersection of AI and financial services, with particular expertise in ethical AI, algorithmic trading, and regulatory technology.
 
 Together, they bring a unique combination of practical industry experience and academic rigor to this comprehensive exploration of financial technology.
 
